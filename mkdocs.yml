@@ -1,5 +1,5 @@
-site_name: 生成式AI介入时机与深度学习研究
-site_description: 生成式人工智能介入时机对大学生深度学习影响机制研究
+site_name: 生成式AI介入学生影响的研究
+site_description: 生成式AI介入时机对大学生深度学习的影响机制研究
 site_url: https://xx-luozi-xx.github.io/ai-edu/
 
 repo_name: xx-luozi-xx/ai-edu
@@ -54,38 +54,38 @@ nav:
   - 首页: index.md
 
   - 教育研究:
-      - 研究总览: research/index.md
-      - 研究问题: research/questions.md
-      - 核心概念: research/concepts.md
-      - 理论框架: research/theory.md
-      - 概念模型: research/conceptual-model.md
-      - 实验设计: research/design.md
-      - 测量方案: research/measures.md
-      - 文献笔记: research/literature.md
-      - 伦理与数据: research/ethics-and-data.md
+      - 研究总览: research/1_index.md
+      - 研究问题: research/2_questions.md
+      - 核心概念: research/3_concepts.md
+      - 理论框架: research/4_theory.md
+      - 概念模型: research/5_conceptual-model.md
+      - 实验设计: research/6_design.md
+      - 测量方案: research/7_measures.md
+      - 文献笔记: research/8_literature.md
+      - 伦理与数据: research/9_ethics-and-data.md
 
   - 工程实现:
-      - 工程总览: engineering/index.md
-      - 系统架构: engineering/architecture.md
-      - AI介入策略: engineering/intervention-policy.md
-      - 实验条件配置: engineering/experiment-config.md
-      - 交互设计: engineering/interaction-design.md
-      - 事件日志: engineering/event-logging.md
-      - 数据结构: engineering/data-schema.md
-      - 分析管线: engineering/analysis-pipeline.md
-      - 测试方案: engineering/testing.md
-      - 工程路线图: engineering/roadmap.md
+      - 工程总览: engineering/1_index.md
+      - 系统架构: engineering/2_architecture.md
+      # - AI介入策略: engineering/intervention-policy.md
+      # - 实验条件配置: engineering/experiment-config.md
+      # - 交互设计: engineering/interaction-design.md
+      # - 事件日志: engineering/event-logging.md
+      # - 数据结构: engineering/data-schema.md
+      # - 分析管线: engineering/analysis-pipeline.md
+      # - 测试方案: engineering/testing.md
+      # - 工程路线图: engineering/roadmap.md
 
   - 项目协作:
       - 项目成员: shared/team.md
       - 跨学科术语表: shared/glossary.md
-      - 研究—工程映射: shared/traceability-matrix.md
+      # - 研究—工程映射: shared/traceability-matrix.md
       - 项目里程碑: shared/milestones.md
-      - 贡献指南: shared/contributing.md
+      # - 贡献指南: shared/contributing.md
       - 会议记录:
           - 会议索引: meetings/index.md
-          - 2026-09-02 项目初始化: meetings/2026/2026-09-02-kickoff.md
+          # - 2026-09-02 项目初始化: meetings/2026/2026-09-02-kickoff.md
       - 决策记录:
           - 决策索引: decisions/index.md
-          - RDR-0001 认知依赖: decisions/RDR-0001-cognitive-dependence.md
-          - ADR-0001 帮助事件: decisions/ADR-0001-help-event-schema.md
+          - RDR-0001 占位: decisions/RDR-0001.md
+          - ADR-0001 服务器性能要求与结构: decisions/ADR-0001.md

@@ -2,11 +2,11 @@
 
 ## 研究决策
 
-- [RDR-0001：认知依赖的暂定维度](RDR-0001-cognitive-dependence.md)
+- [RDR-0001：占位](RDR-0001.md)
 
 ## 工程决策
 
-- [ADR-0001：AI帮助事件结构](ADR-0001-help-event-schema.md)
+- [ADR-0001：服务器性能要求与结构](ADR-0001.md)
 
 ## 状态说明
 
