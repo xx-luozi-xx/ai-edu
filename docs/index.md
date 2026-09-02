@@ -33,8 +33,7 @@
 
 ## 快速入口
 
-- [研究—工程映射表](shared/traceability-matrix.md)
 - [跨学科术语表](shared/glossary.md)
 - [会议记录](meetings/index.md)
 - [决策记录](decisions/index.md)
-- [工程路线图](engineering/roadmap.md)
+- [文献笔记](research/8_literature.md)
